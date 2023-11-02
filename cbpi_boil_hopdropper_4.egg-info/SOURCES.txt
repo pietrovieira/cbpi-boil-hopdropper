@@ -1,7 +1,0 @@
-README.md
-cbpi-boil-hopdropper-4/__init__.py
-cbpi-boil-hopdropper-4/setup.py
-cbpi_boil_hopdropper_4.egg-info/PKG-INFO
-cbpi_boil_hopdropper_4.egg-info/SOURCES.txt
-cbpi_boil_hopdropper_4.egg-info/dependency_links.txt
-cbpi_boil_hopdropper_4.egg-info/top_level.txt
